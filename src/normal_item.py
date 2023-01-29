@@ -1,5 +1,5 @@
-from src.interface import *
-from src.item import *
+from interface import *
+from src.item_attributes import *
 
 class NormalItem(Interface, Item):
     

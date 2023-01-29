@@ -1,0 +1,7 @@
+# FILES TO IGNORE BY GIT #
+
+# pytest, coverage files
+__pycache__
+.pytest_cache
+.vscode
+pytest.ini
