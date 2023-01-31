@@ -13,9 +13,9 @@
             <url>https://github.com/SPiedra955/Gilded-Rose/blob/main/gildedrose/pom.xml</url>
         </repository>
     </distributionManagement>
-<settingsSecurity>
+<settings>
   <master>{yHIJozpzKAIHJnl2sqGTGZM+Jb0p+iCU+B2mY62+D9g=}</master>
-</settingsSecurity>
+</settings>
   <!-- FIXME change it to the project's website -->
   <url>https://github.com/SPiedra955/Gilded-Rose</url>
 
