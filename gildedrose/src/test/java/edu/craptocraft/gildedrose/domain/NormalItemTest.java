@@ -30,7 +30,7 @@ public class NormalItemTest {
     public void ZeroMinQuality(){
         NormalItem item = new NormalItem("+5 Dexterity Vest", 0, 0);
         item.updateQuality();
-        assertEquals(0, item.getSell_in(), 0);
+        assertEquals(-1, item.getSell_in(), 0);
         assertEquals(0, item.getQuality(), 0);     
     }
 

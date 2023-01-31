@@ -16,9 +16,9 @@ final class Items {
     @Override
     public String toString() {
         StringBuilder itemDescription = new StringBuilder();
-        itemDescription.append("name=" + getName());
-        itemDescription.append(", sell_in=" + getSell_in());
-        itemDescription.append(", quality=" + getQuality());
+        itemDescription.append("name: " + getName());
+        itemDescription.append(", sell_in: " + getSell_in());
+        itemDescription.append(", quality: " + getQuality());
         return itemDescription.toString();
     }
 
