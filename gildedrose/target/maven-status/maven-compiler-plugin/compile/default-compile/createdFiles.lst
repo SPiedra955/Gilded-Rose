@@ -1,0 +1,9 @@
+edu\craptocraft\gildedrose\domain\AgedBrieItem.class
+edu\craptocraft\gildedrose\domain\ConjuredItem.class
+edu\craptocraft\gildedrose\domain\Items.class
+edu\craptocraft\gildedrose\domain\GildedRose.class
+edu\craptocraft\gildedrose\domain\BackstageItem.class
+edu\craptocraft\App.class
+edu\craptocraft\gildedrose\domain\SulfurasItem.class
+edu\craptocraft\gildedrose\domain\NormalItem.class
+edu\craptocraft\gildedrose\domain\Updateable.class
