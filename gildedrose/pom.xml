@@ -9,10 +9,11 @@
   <name>gildedrose</name>
       <distributionManagement>
         <repository>
-            <id>Github SPiedra955</id>
-            <url>https://github.com/SPiedra955/Gilded-Rose/blob/main/gildedrose/pom.xml</url>
+            <id>SPiedra955</id>
+            <url>https://github.com/SPiedra955/Gilded-Rose</url>
         </repository>
     </distributionManagement>
+
   <!-- FIXME change it to the project's website -->
   <url>https://github.com/SPiedra955/Gilded-Rose</url>
 
