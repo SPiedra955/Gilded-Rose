@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+  <groupId>edu.craptocraft</groupId>
+  <artifactId>gildedrose</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>gildedrose</name>
       <distributionManagement>
         <repository>
             <id>Github SPiedra955</id>
             <url>https://github.com/SPiedra955/Gilded-Rose/blob/main/gildedrose/pom.xml</url>
         </repository>
     </distributionManagement>
-
-  <groupId>edu.craptocraft</groupId>
-  <artifactId>gildedrose</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
-
-  <name>gildedrose</name>
+<settingsSecurity>
+  <master>{yHIJozpzKAIHJnl2sqGTGZM+Jb0p+iCU+B2mY62+D9g=}</master>
+</settingsSecurity>
   <!-- FIXME change it to the project's website -->
   <url>https://github.com/SPiedra955/Gilded-Rose</url>
 
