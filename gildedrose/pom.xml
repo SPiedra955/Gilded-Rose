@@ -6,7 +6,7 @@
       <distributionManagement>
         <repository>
             <id>Github SPiedra955</id>
-            <url>https://github.com/SPiedra955/Gilded-Rose/blob/main/gildedrose/pom.xml/url>
+            <url>https://github.com/SPiedra955/Gilded-Rose/blob/main/gildedrose/pom.xml</url>
         </repository>
     </distributionManagement>
 
