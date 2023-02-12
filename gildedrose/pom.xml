@@ -9,8 +9,8 @@
   <name>gildedrose</name>
       <distributionManagement>
         <repository>
-            <id>SPiedra955</id>
-            <url>https://github.com/SPiedra955/Gilded-Rose</url>
+            <id>github</id>
+            <url>https://github.com/SPiedra955/Gilded-Rose/tree/main/gildedrose</url>
         </repository>
     </distributionManagement>
 
